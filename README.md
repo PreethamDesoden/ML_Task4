@@ -82,3 +82,19 @@ The recommendation system was implemented using the following approach:
 This project successfully built a **Collaborative Filtering-based Recommendation System** using the MovieLens dataset. By applying **Matrix Factorization**, we generated personalized movie recommendations based on user preferences. This approach demonstrates how data-driven techniques can enhance user experiences in recommendation systems.
 
 ## Output
+
+![Image](https://github.com/user-attachments/assets/0a487366-2c51-4552-8cbf-156d8cf0063f)
+
+![Image](https://github.com/user-attachments/assets/ff75eb3a-ce1e-4b16-a64f-6e86a77114bd)
+
+![Image](https://github.com/user-attachments/assets/7961f6be-019d-4d13-9f74-7945aa109a5c)
+
+![Image](https://github.com/user-attachments/assets/0d7be293-edcc-48b0-b868-556083199b9a)
+
+![Image](https://github.com/user-attachments/assets/b9881da5-d76e-4227-93b7-ffd0bdfc6ec8)
+
+![Image](https://github.com/user-attachments/assets/167bb265-40ec-4fac-b749-5d8420e278b2)
+
+![Image](https://github.com/user-attachments/assets/7abfbdcc-fc81-4db1-9670-c23a24ad9e54)
+
+![Image](https://github.com/user-attachments/assets/d917a8a0-8b6a-4153-a7bd-ed4ac20ea033)
