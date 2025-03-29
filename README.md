@@ -1,5 +1,17 @@
 # Recommendation System (Collaborative Filtering/Matrix Factorization)
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : PREETHAM B
+
+*INTERN ID* : CT12WM72
+
+*DOMAIN* : MACHINE LEARNING 
+
+*DURATION* : 12 WEEKS
+
+*MENTOR* : NEELA SANTOSH 
+
 ## Project Overview
 This project focuses on developing a **Recommendation System** using **Collaborative Filtering** and **Matrix Factorization** techniques. The system is built using the **MovieLens 100K dataset**, where user ratings are analyzed to generate personalized movie recommendations. The deliverable for this task is a **Jupyter Notebook or an application showcasing recommendations and evaluation metrics**.
 
